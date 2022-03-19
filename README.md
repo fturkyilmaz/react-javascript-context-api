@@ -4,29 +4,48 @@
   <img src="https://cdn.hackernoon.com/images/gp1d3vsm.jpg" height="100%" width="100%" title="hover text">
 </p>
 
-
 ## Context Api
 
 Context, prop’ları her seviyede manuel olarak geçmek zorunda kalmadan bileşen ağacı üzerinden veri iletmenin bir yolunu sağlar.
-
 
 ### Projenin Amacı Nedir ?
 
 React Javascript ile useContext() & useReducer hooks kullanarak sizlere global state management Context Api nasıl yapacağımıza paylaşıyorum.
 Bu projede tema yönetimini dark mode yada light bilgisine göre arayüzü nasıl değiştirebileceğimizi context mesajı nasıl tetikleyeceğimizi basit bir örnek ile sizlere paylaştım.
 
-
 ### Context Api Neden Kullanılırız?
 
 Tipik bir React uygulamasında veri prop’lar aracılığıyla yukarıdan aşağıya aktarılır (üst bileşenlerden alt bileşenlere). Fakat bu tür bir kullanım, uygulamadaki birçok bileşen tarafından ihtiyaç duyulan belirli tipteki prop’lar (örneğin; lokalizasyon, arayüz teması) için kullanışsız olabilir. Context, bileşen ağacın her bir seviyesi üzerinden açıkça bir prop geçirmeden, bileşenler arasında bu gibi değerleri paylaşmanın bir yolunu sağlar.
 
-### `npm start`
+## Contact Us
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🌱 I’m currently learning **Swift,Solidity**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 📝 I regularly write articles on [https://www.linkedin.com/in/furkanturkyilmaz/detail/recent-activity/shares/](https://www.linkedin.com/in/furkanturkyilmaz/detail/recent-activity/shares/)
+
+- 💬 Ask me about **React JS,React Native,Javascript,Solidity,Blockchain**
+
+- 📫 Email **trkyilmazfurkan@gmail.com**
+
+- <a href="https://linkedin.com/in/furkanturkyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkanturkyilmaz" height="20" width="20" /></a> LinkedIn **https://www.linkedin.com/in/furkanturkyilmaz/**
+
+- <a href="https://linkedin.com/in/furkanturkyilmaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="furkanturkyilmaz" height="20" width="20" /></a> GitHub **https://github.com/fturkyilmaz**
+
+
+## React Native Ücretsiz Eğitim İçerikleri
+
+Context, prop’ları her seviyede manuel olarak geçmek zorunda kalmadan bileşen ağacı üzerinden veri iletmenin bir yolunu sağlar.
+
+React Native Bootcamp [https://www.youtube.com/playlist?list=PLT_pHf0diFdMX1AgnNOUqRkO9FvloedXG](https://www.youtube.com/playlist?list=PLT_pHf0diFdMX1AgnNOUqRkO9FvloedXG) to view it in your browser.
+
+React Native Bootcamp [https://www.youtube.com/playlist?list=PLT_pHf0diFdMvewldSeN-dD-L9YVq1xbm](https://www.youtube.com/playlist?list=PLT_pHf0diFdMvewldSeN-dD-L9YVq1xbm) to view it in your browser.
+
+
+
+
+
+
+
 
 ### `npm test`
 
@@ -53,32 +72,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
