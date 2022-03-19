@@ -46,7 +46,6 @@ React Native Bootcamp : [https://www.youtube.com/playlist?list=PLT_pHf0diFdMX1Ag
 
 React Native Coding Challenge : [https://www.youtube.com/playlist?list=PLT_pHf0diFdMvewldSeN-dD-L9YVq1xbm](https://www.youtube.com/playlist?list=PLT_pHf0diFdMvewldSeN-dD-L9YVq1xbm) 
  &nbsp;
-&nbsp;
 
 
 **React Native,React Js ,Web 3.0 bootcamp  ve workshop düzenlemek isterseniz benimle iletişime geçebilirsiniz.** &nbsp;
