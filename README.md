@@ -5,11 +5,20 @@
 </p>
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Context Api
 
-## Available Scripts
+Context, prop’ları her seviyede manuel olarak geçmek zorunda kalmadan bileşen ağacı üzerinden veri iletmenin bir yolunu sağlar.
 
-In the project directory, you can run:
+
+### Projenin Amacı Nedir ?
+
+React Javascript ile useContext() & useReducer hooks kullanarak sizlere global state management Context Api nasıl yapacağımıza paylaşıyorum.
+Bu projede tema yönetimini dark mode yada light bilgisine göre arayüzü nasıl değiştirebileceğimizi context mesajı nasıl tetikleyeceğimizi basit bir örnek ile sizlere paylaştım.
+
+
+### Context Api Neden Kullanılırız?
+
+Tipik bir React uygulamasında veri prop’lar aracılığıyla yukarıdan aşağıya aktarılır (üst bileşenlerden alt bileşenlere). Fakat bu tür bir kullanım, uygulamadaki birçok bileşen tarafından ihtiyaç duyulan belirli tipteki prop’lar (örneğin; lokalizasyon, arayüz teması) için kullanışsız olabilir. Context, bileşen ağacın her bir seviyesi üzerinden açıkça bir prop geçirmeden, bileşenler arasında bu gibi değerleri paylaşmanın bir yolunu sağlar.
 
 ### `npm start`
 
